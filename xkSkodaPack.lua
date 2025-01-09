@@ -1,0 +1,5 @@
+    ["xk21enoctaviavrs"] = {"Skoda VRS 2021 Carbon",197000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk21enoctaviavrs.png?raw=true' width='360' height='340'/>"},
+    ["xk22ascosuperb"] = {"Skoda Superb 2022 Carbon",285000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk22ascosuperb.png?raw=true' width='360' height='340'/>"},
+    ["xk23octaviavrs"] = {"Skoda VRS 2023",235000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23octaviavrs.png?raw=true' width='360' height='340'/>"},
+    ["xk23sportline"] = {"Skoda Superb 2023",310000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23sportline.png?raw=true' width='360' height='340'/>"},
+    ["xk24octaviavrs"] = {"Skoda VRS 2024",245000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24octaviavrs.png?raw=true' width='360' height='340'/>"},

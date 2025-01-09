@@ -1,0 +1,4 @@
+    ["xk23rubicon"] = {"روبيكون 3600 2023",370000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23rubicon.png?raw=true' width='360' height='340'/>"},
+    ["xk23rubicon4xe"] = {"روبيكون هيبرد 2023",460000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23rubicon4xe.png?raw=true' width='360' height='340'/>"},
+    ["xk23rubiconltd"] = {"روبيكون قصير 2023",379900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23rubiconltd.png?raw=true' width='360' height='340'/>"},
+    ["xk23rubicon392"] = {"روبيكون 6400",890000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23rubicon392.png?raw=true' width='360' height='340'/>"},

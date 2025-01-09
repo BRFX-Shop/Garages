@@ -1,0 +1,3 @@
+    ["xk24sahara"] = {"Hilux Sahara 2024",325990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24sahara.png?raw=true' width='360' height='340'/>"},
+    ["xk24grsport"] = {"Hilux GR Sport 2024",372990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24saharagr.png?raw=true' width='360' height='340'/>"},
+    ["xk24prado"] = {"Land Cruiser Prado 2024",369990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24prado.png?raw=true' width='360' height='340'/>"},

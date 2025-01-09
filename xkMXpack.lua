@@ -1,0 +1,5 @@
+    ["xk20crf250r23"] = {"CRF 250R - 23",26000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/crf23.png?raw=true' width='300' height='300'/>"},
+    ["xk21ktm74"] = {"KTM 2021 - 74",31000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/ktm74.png?raw=true' width='300' height='300'/>"},
+    ["xk21ktm236"] = {"KTM 2021 - 236",31000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/ktm236.png?raw=true' width='300' height='300'/>"},
+    ["xk22fc450"] = {"Husqvarna 450 - 69",41000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/husqvarna69.png?raw=true' width='300' height='300'/>"},
+    ["xkyz450f34"] = {"YZ 450F - 34",36000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/yz34.png?raw=true' width='300' height='300'/>"},
