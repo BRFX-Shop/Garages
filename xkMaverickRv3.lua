@@ -1,0 +1,5 @@
+    ["xk24mdybmaverickr"] = {"2024 Maverick R Black",369000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24mdybmaverickr.png?raw=true' width='360' height='240'/>"},
+    ["xk24QMmaverickr"] = {"2024 Maverick R Desert Tan",361000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24qmmaverickr.png?raw=true' width='360' height='240'/>"},
+    ["xk24SCSmaverickr"] = {"2024 Maverick R Yellow",359000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24scsmaverickr.png?raw=true' width='360' height='240'/>"},
+    ["xk25DMmaverickr"] = {"2024 Maverick R White",489000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25dmmaverickr.png?raw=true' width='360' height='240'/>"},
+    ["xk25DSmaverickr"] = {"2024 Maverick R Yellow #2",435000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25dsmaverickr.png?raw=true' width='360' height='240'/>"},
