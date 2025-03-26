@@ -22,6 +22,7 @@
 	["xk237mcanx3xrc"] = {"X3 XRC 2023 7m",202500, "<img src='https://github.com/BRFX-Shop/Cars/blob/5440eec750685fa03d2c8aae7896419ab8dd0417/2%20(1).png?raw=true' width='360' height='340'/>"},
 	["xk23c7mcanx3xrc"] = {"X3 XRC 2023 7m #2",202500, "<img src='https://github.com/BRFX-Shop/Cars/blob/5440eec750685fa03d2c8aae7896419ab8dd0417/22.png?raw=true' width='360' height='340'/>"},
 	["xk23amcanx3xrc"] = {"X3 XRC 2023 AM",202500, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/ahmadamun.png?raw=true' width='360' height='340'/>"},
+	["xk25amcanx3xrs"] = {"X3 XRS 2025",235000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/ahmadamun25.png?raw=true' width='360' height='340'/>"},
 	["xk24ibcanx3xrs"] = {"Ibrahim X3 XRS 2024",231100, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24ibcanx3xrs.png?raw=true' width='360' height='340'/>"},
 	
 	--- عرباي للباجيات
