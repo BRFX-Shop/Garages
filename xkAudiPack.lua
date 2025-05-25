@@ -1,0 +1,7 @@
+    ["xk17s3"] = {"Audi S3 2017 Chrome",163250, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk17s3.png?raw=true' width='360' height='240'/>"},
+    ["xk18q5"] = {"Audi Q5 2018",139999, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk18q5.png?raw=true' width='360' height='240'/>"},
+    ["xk18rs3"] = {"Audi RS3 2018",223900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk18rs3.png?raw=true' width='360' height='240'/>"},
+    ["xk20r8"] = {"Audi R8 2020",844900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk20r8.png?raw=true' width='360' height='240'/>"},
+    ["xk24rs3"] = {"Audi RS3 2024",519400, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24rs3.png?raw=true' width='360' height='240'/>"},
+    ["xk24rs5"] = {"Audi RS5 2024",801900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24rs5.png?raw=true' width='360' height='240'/>"},
+	["xk24sq5"] = {"Audi SQ5 2024",598900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24sq5.png?raw=true' width='360' height='240'/>"},

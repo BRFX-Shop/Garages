@@ -8,3 +8,5 @@
     ["xk24x6m"] = {"بي ام اكس 6 2024",1190000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24x6m.png?raw=true' width='360' height='240'/>"},
     ["xk24m3c"] = {"بي ام ام 3 2024",870000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24m3c.png?raw=true' width='360' height='240'/>"},
     ["xk24m2c"] = {"بي ام ام 2 2024",830000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24m2c.png?raw=true' width='360' height='240'/>"},
+    ["xk21m4g82"] = {"بي ام ام 4 2021",630000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk21m4g82.png?raw=true' width='360' height='240'/>"},
+    ["xk23m4g82"] = {"بي ام ام 4 2023",815000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23m4g82.png?raw=true' width='360' height='240'/>"},
