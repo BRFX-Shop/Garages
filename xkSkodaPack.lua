@@ -3,3 +3,6 @@
     ["xk23octaviavrs"] = {"Skoda VRS 2023",235000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23octaviavrs.png?raw=true' width='360' height='340'/>"},
     ["xk23sportline"] = {"Skoda Superb 2023",310000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23sportline.png?raw=true' width='360' height='340'/>"},
     ["xk24octaviavrs"] = {"Skoda VRS 2024",245000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24octaviavrs.png?raw=true' width='360' height='340'/>"},
+    ["xk23octaviavrs2"] = {"Skoda VRS 2024",240000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23octaviavrs2.png?raw=true' width='360' height='340'/>"},
+    ["xk20octaviavrs"] = {"Skoda VRS 2024",165000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk20octaviavrs.png?raw=true' width='360' height='340'/>"},
+    ["xk16octaviavrs"] = {"Skoda VRS 2024",110000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk16octaviavrs.png?raw=true' width='360' height='340'/>"},
