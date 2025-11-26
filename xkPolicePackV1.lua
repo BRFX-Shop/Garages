@@ -1,3 +1,4 @@
+--- 🔴لا تقم بتركيب هذا الكراج الا في حال التأكد من وجود جميع السيارات عندك 🔴
     ["xkpolice0"] = {"xkpolice0",0, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkpolice0.png?raw=true' width='360' height='340'/>"},
     ["xkpolice1"] = {"xkpolice1",0, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkpolice1.png?raw=true' width='360' height='340'/>"},
     ["xkpolice2"] = {"xkpolice2",0, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkpolice2.png?raw=true' width='360' height='340'/>"},
@@ -16,3 +17,4 @@
     ["xkpolice15"] = {"xkpolice15",0, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkpolice15.png?raw=true' width='360' height='340'/>"},
     ["xkpolice16"] = {"xkpolice16",0, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkpolice16.png?raw=true' width='360' height='340'/>"},
     ["xkpolice17"] = {"xkpolice17",0, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkpolice17.png?raw=true' width='360' height='340'/>"},
+--- 🔴لا تقم بتركيب هذا الكراج الا في حال التأكد من وجود جميع السيارات عندك 🔴
