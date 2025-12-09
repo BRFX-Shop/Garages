@@ -5,3 +5,7 @@
     ["xk24rs3"] = {"Audi RS3 2024",519400, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24rs3.png?raw=true' width='360' height='240'/>"},
     ["xk24rs5"] = {"Audi RS5 2024",801900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24rs5.png?raw=true' width='360' height='240'/>"},
 	["xk24sq5"] = {"Audi SQ5 2024",598900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24sq5.png?raw=true' width='360' height='240'/>"},
+    ["xk19r8"] = {"Audi R8 2019",1844900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk19r8.png?raw=true' width='360' height='240'/>"},
+    ["xk25rsq3"] = {"Audi RSQ3 2025",419400, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25rsq3.png?raw=true' width='360' height='240'/>"},
+    ["xk25rsq8"] = {"Audi RSQ8 2025",1425000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25rsq8.png?raw=true' width='360' height='240'/>"},
+	["xk25ttrs"] = {"Audi TTRS 2025",398900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25ttrs.png?raw=true' width='360' height='240'/>"},
