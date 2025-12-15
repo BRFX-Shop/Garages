@@ -8,3 +8,6 @@
     ["xk25glc63s"] = {"GLC63S 2025",1050000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25glc63s.png?raw=true' width='360' height='240'/>"},
     ["xk25gle53"] = {"GLE53 2025",889000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25gle53.png?raw=true' width='360' height='240'/>"},
     ["xk25gt"] = {"AMG GT 2025",2250000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25gt.png?raw=true' width='360' height='240'/>"},
+	["xk26gle800"] = {"GLE Brabus 800",3050000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26gle800.png?raw=true' width='360' height='240'/>"},
+    ["xk26g63"] = {"G63 2025",1889000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26g63.png?raw=true' width='360' height='240'/>"},
+    ["xk17c63s"] = {"C63S Cabriolet 2017",450000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk17c63s.png?raw=true' width='360' height='240'/>"}
