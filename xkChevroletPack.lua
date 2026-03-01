@@ -1,0 +1,5 @@
+    ["xk19zr1"] = {"Corvette ZR1 2019",425990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk19zr1.png?raw=true' width='360' height='340'/>"},
+    ["xk21c8c"] = {"Corvette C8 Cabariolet 2021",472990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk21c8c.png?raw=true' width='360' height='340'/>"},
+    ["xk26HighCountry"] = {"Land Cruiser Prado 2024",385872, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26HighCountry.png?raw=true' width='360' height='340'/>"},
+    ["xk26SilveradoLTZ"] = {"Land Cruiser Prado 2023",374072, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26SilveradoLTZ.png?raw=true' width='360' height='340'/>"},
+    ["xk26z06"] = {"Land Cruiser Prado 2025",865366, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26z06.png?raw=true' width='360' height='340'/>"},
