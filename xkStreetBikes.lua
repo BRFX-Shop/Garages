@@ -9,3 +9,7 @@
     ["xk24xadv750"] = {"XADV 750 2024",62000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24xadv750.png?raw=true' width='360' height='240'/>"},
     ["xk21tracer9"] = {"Tracer9 2021",83000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk21tracer9.png?raw=true' width='360' height='240'/>"},
     ["xk16tmax530"] = {"T-Max 530 2016",33000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk16tmax530.png?raw=true' width='360' height='240'/>"},
+    ["xk26xadv750"] = {"XADV 750 2026",92000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26xadv750.png?raw=true' width='360' height='240'/>"},
+    ["xk26surron"] = {"Surron 2026",46000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26surron.png?raw=true' width='360' height='240'/>"},
+    ["xk25surron"] = {"Surron 2025",39000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25surron.png?raw=true' width='360' height='240'/>"},
+    ["xk24surron"] = {"Surron 2024",32000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24surron.png?raw=true' width='360' height='240'/>"},
