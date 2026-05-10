@@ -7,3 +7,4 @@
     ["xk17m4f82"] = {"بي ام ام 4 2017",397000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk17m4f82.png?raw=true' width='360' height='240'/>"},
     ["xk24x3m"] = {"بي ام اكس 3 2024",525000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24x3m.png?raw=true' width='360' height='240'/>"},
     ["xk26m8c"] = {"بي ام ام 8 كشف",915000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26m8c.png?raw=true' width='360' height='240'/>"},
+    ["xk26bmw760i"] = {"بي ام 760",1233000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26bmw760i.png?raw=true' width='360' height='240'/>"},
