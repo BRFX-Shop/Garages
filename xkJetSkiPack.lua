@@ -1,0 +1,8 @@
+    ["xk21fishpro"] = {"SeaDoo FishPro 2021",163250, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk21fishpro.png?raw=true' width='360' height='240'/>"},
+    ["xk22gtx300"] = {"SeaDoo GTX300 2022",139999, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk22gtx300.png?raw=true' width='360' height='240'/>"},
+    ["xk23gtx300"] = {"SeaDoo GTX300 2023",149900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23gtx300.png?raw=true' width='360' height='240'/>"},
+    ["xk24gtx325"] = {"SeaDoo GTX325 2024",154900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24gtx325.png?raw=true' width='360' height='240'/>"},
+    ["xk25gtx325"] = {"SeaDoo GTX325 2025",179400, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25gtx325.png?raw=true' width='360' height='240'/>"},
+    ["xk26gtx325"] = {"SeaDoo GTX325 2026",201900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26gtx325.png?raw=true' width='360' height='240'/>"},
+	  ["xk25ultra310lx"] = {"Kawasaki Ultra 310LX 2025",200900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25ultra310lx.png?raw=true' width='360' height='240'/>"},
+    ["xkjetskitrailer"] = {"Jetski Trailer",16900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkjetskitrailer.png?raw=true' width='360' height='240'/>"},
