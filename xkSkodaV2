@@ -1,0 +1,5 @@
+    ["xk27superb"] = {"Superb L&K 2027",278990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk27superb.png?raw=true' width='360' height='240'/>"},
+    ["xk27kodiaq"] = {"Kodiaq Sportline 2027",289990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk27kodiaq.png?raw=true' width='360' height='240'/>"},
+    ["xk27kodiaqrs"] = {"Kodiaq RS 2027",310990, "<img src='https:https://github.com/BRFX-Shop/Garages/pulse//github.com/BRFX-Shop/Cars/blob/main/xk27kodiaqrs.png?raw=true' width='360' height='240'/>"},
+    ["xk24superb"] = {"Superb L&K 2024",234790, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24superb.png?raw=true' width='360' height='240'/>"},
+    ["xk27sportline"] = {"Superb Sportline 2027",293990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk27sportline.png?raw=true' width='360' height='240'/>"},
