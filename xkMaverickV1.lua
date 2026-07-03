@@ -6,3 +6,4 @@
     ["xk26canx3xrs"] = {"Maverick X3 XRS 2026",251990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26canx3xrs.png?raw=true' width='360' height='240'/>"},
     ["xk26MaverickRMax"] = {"Maverick R Max XRS 2026",559990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26MaverickRMax.png?raw=true' width='360' height='240'/>"},
     ["xk26wkcanx3xrc"] = {"Maverick X3 XRC 2026",274990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26wkcanx3xrc.png?raw=true' width='360' height='240'/>"},
+    ["xk26MaverickRXRC"] = {"Maverick R XRC 2026",574990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26MaverickRXRC.png?raw=true' width='360' height='240'/>"},
