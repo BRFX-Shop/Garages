@@ -4,3 +4,4 @@
 	["xk27Q3"] = {"كيو 3 2027",330000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk27Q3.png?raw=true' width='360' height='240'/>"},
 	["xk27RS5"] = {"ار اس 5 2027",700000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk27RS5.png?raw=true' width='360' height='240'/>"},
 	["xk27S6"] = {"اس 6 2027",650000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk27S6.png?raw=true' width='360' height='240'/>"},
+	["xk27RS3"] = {"ار اس 3 كومبيتشن 2027",745300, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk27RS3.png?raw=true' width='360' height='240'/>"},
