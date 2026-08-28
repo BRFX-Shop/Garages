@@ -1,0 +1,5 @@
+    ["xk16huracan"] = {"Huracan 2016",1440000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk16huracan.png?raw=true' width='360' height='340'/>"},
+    ["xk19huracan"] = {"Huracan Spider 2019",1850000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk19huracan.png?raw=true' width='360' height='340'/>"},
+    ["xk19performante"] = {"Huracan 2019",1750000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk19performante.png?raw=true' width='360' height='340'/>"},
+    ["xk20aventadors"] = {"Aventador S 2020",3750000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk20aventadors.png?raw=true' width='360' height='340'/>"},
+    ["xk21sto"] = {"Lamborghini STO 2021",2950000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk21sto.png?raw=true' width='360' height='340'/>"},

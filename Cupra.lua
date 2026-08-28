@@ -1,0 +1,2 @@
+    ["xk23formentor"] = {"Cupra Formentor 2024",269900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23formentor.png?raw=true' width='360' height='340'/>"},
+    ["xk23leon"] = {"Cupra Leon 2024",195543, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23leon.png?raw=true' width='360' height='340'/>"},

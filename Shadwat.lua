@@ -1,0 +1,5 @@
+    ["xkShadWatCamaro"] = {"كامارو شادوات",369000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkshadwatcamaro.png?raw=true' width='300' height='300'/>"},
+    ["xkShadWatE30"] = {"بي ام اي 30 شادوات",132000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkshadwate30.png?raw=true' width='300' height='300'/>"},
+    ["xkShadWatE36"] = {"بي ام اي 36 شادوات",67000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkshadwate36.png?raw=true' width='300' height='300'/>"},
+    ["xkShadWatM4"] = {"بي ام ام 4 شادوات",578000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkshadwatm4.png?raw=true' width='300' height='300'/>"},
+    ["xkShadWatM42"] = {"بي ام ام 4 شادوات سترينج جديد",578000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xkshadwatm4.png?raw=true' width='360' height='240'/>"},

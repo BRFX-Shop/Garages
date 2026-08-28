@@ -1,0 +1,3 @@
+    ["xk26defender90"] = {"Land Rover Defender 90 2026",668000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26defender90.png?raw=true' width='360' height='240'/>"},
+    ["xk26rr"] = {"Range Rover 2026",1479000 , "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26rr.png?raw=true' width='360' height='240'/>"},
+    ["xk26rrsport"] = {"Range Rover Sport 2026",836500, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26rrsport.png?raw=true' width='360' height='240'/>"},

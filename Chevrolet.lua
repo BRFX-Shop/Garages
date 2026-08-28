@@ -1,0 +1,5 @@
+    ["xk19zr1"] = {"Corvette ZR1 2019",425990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk19zr1.png?raw=true' width='360' height='340'/>"},
+    ["xk21c8c"] = {"Corvette C8 Cabariolet 2021",472990, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk21c8c.png?raw=true' width='360' height='340'/>"},
+    ["xk26HighCountry"] = {"Silverado HighCountry 2026",385872, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26HighCountry.png?raw=true' width='360' height='340'/>"},
+    ["xk26SilveradoLTZ"] = {"Silverado LTZ 2026",374072, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26SilveradoLTZ.png?raw=true' width='360' height='340'/>"},
+    ["xk26z06"] = {"Corvette Z06 2026",865366, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26z06.png?raw=true' width='360' height='340'/>"},

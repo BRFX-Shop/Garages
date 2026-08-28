@@ -1,0 +1,6 @@
+    ["xk23caytgt"] = {"Cayenne 2023",1017000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk23caytgt.png?raw=true' width='360' height='340'/>"},
+    ["xk24turbos"] = {"Turbo S 2024",2197000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24turbos.png?raw=true' width='360' height='340'/>"},
+    ["xk24turbosc"] = {"Turbo S Cabriolet 2024",2297000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk24turbosc.png?raw=true' width='360' height='340'/>"},
+    ["xk25gt3rs"] = {"GT3 RS 2025",2797000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk25gt3rs.png?raw=true' width='360' height='340'/>"},
+    ["xk26gt3"] = {"GT3 2026",1797000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26gt3.png?raw=true' width='360' height='340'/>"},
+	["xk26taycangt"] = {"Taycan GT 2026",962000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/xk26taycangt.png?raw=true' width='360' height='340'/>"},

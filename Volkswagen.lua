@@ -1,0 +1,3 @@
+    ["xk13golfr"] = {"Golf MK6R - REVO",94900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/mk6r.png?raw=true' width='300' height='300'/>"},
+    ["xk15scirocco"] = {"Scirocco - APR",86000, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/scirocco.png?raw=true' width='300' height='300'/>"},
+    ["xk23golfr"] = {"Golf MK8R - MRC",354900, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/mk8r.png?raw=true' width='300' height='300'/>"},

@@ -1,0 +1,5 @@
+    ["xk09bcprado"] = {"لند 2009 بيبي كار",3700, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/prado09.png?raw=true' width='360' height='240'/>"},
+    ["xk18bcgolfr"] = {"جولف ار بيبي كار",1800, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/golf7.5r.png?raw=true' width='360' height='240'/>"},
+    ["xk21bcm4cg83"] = {"بي ام ام 4 بيبي كار",2600, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/m4c.png?raw=true' width='360' height='240'/>"},
+    ["xk22bckacanx3xrs"] = {"اكس 3 بيبي كار",1200, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/x3ka.png?raw=true' width='360' height='240'/>"},
+    ["xk23bcts7prado"] = {"لند 2023 بيبي كار",3500, "<img src='https://github.com/BRFX-Shop/Cars/blob/main/pradots7.png?raw=true' width='360' height='240'/>"},
